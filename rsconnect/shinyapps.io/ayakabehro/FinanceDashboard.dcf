@@ -1,0 +1,14 @@
+name: FinanceDashboard
+title: FinanceDashboard
+username:
+account: ayakabehro
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4201845
+bundleId: 4703439
+url: https://ayakabehro.shinyapps.io/FinanceDashboard/
+when: 1623374868.56219
+lastSyncTime: 1623374868.56219
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|DJI_prices.csv|DowJones_components_full.csv|ETF_full.csv|nasdaq_data.csv|shiny.pdf|SP_500_prices.csv
